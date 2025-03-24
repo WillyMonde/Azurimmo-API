@@ -11,6 +11,7 @@
 	<groupId>com.bts.sio</groupId>
 	<artifactId>Azurimmo-API</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>Azurimmo-API</name>
 	<description>Azurimmo-API</description>
 	<url/>
